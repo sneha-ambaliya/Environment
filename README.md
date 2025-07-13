@@ -22,6 +22,10 @@ Welcome to **IndusEnvirons** — a modern, eco-friendly website built using **Re
 | React         | Frontend JavaScript library     |
 | Tailwind CSS  | Utility-first CSS framework     |
 
+## 🌐 Live Preview
+Check out the live version here:
+🔗 https://environment-ambaliya.vercel.app/
+
 ---
 
 
