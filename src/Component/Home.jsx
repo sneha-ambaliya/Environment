@@ -1,7 +1,7 @@
 import React from 'react'
 import "../App.css"
 import '../index.css';
-import Hero from './hero';
+import Hero from './Hero';
 import Home_sec1 from './Home_sec1';
 import Home_sec3 from './Home_sec3';
 import Home_sec4 from './Home_sec4';
