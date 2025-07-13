@@ -1,7 +1,7 @@
 import React from 'react'
 import hero2 from './hero2.png';
 
-function hero() {
+function Hero() {
   return (
     <div className="h-screen bg-cover bg-center bg-no-repeat " style={{ backgroundImage: `url(${hero2})` }}>
       <div className='py-50 px-30  max-sm:py-30 max-sm:px-5 '>
@@ -19,4 +19,4 @@ function hero() {
   )
 }
 
-export default hero
+export default Hero
