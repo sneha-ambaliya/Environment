@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.hero-font{
+   font-family: 'Playfair Display', serif;
+}
+
